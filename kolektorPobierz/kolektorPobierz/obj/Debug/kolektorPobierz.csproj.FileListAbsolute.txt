@@ -1,0 +1,6 @@
+c:\users\softkj\documents\visual studio 2015\Projects\kolektorPobierz\kolektorPobierz\bin\Debug\kolektorPobierz.exe.config
+c:\users\softkj\documents\visual studio 2015\Projects\kolektorPobierz\kolektorPobierz\bin\Debug\kolektorPobierz.exe
+c:\users\softkj\documents\visual studio 2015\Projects\kolektorPobierz\kolektorPobierz\bin\Debug\kolektorPobierz.pdb
+c:\users\softkj\documents\visual studio 2015\Projects\kolektorPobierz\kolektorPobierz\obj\Debug\kolektorPobierz.csprojResolveAssemblyReference.cache
+c:\users\softkj\documents\visual studio 2015\Projects\kolektorPobierz\kolektorPobierz\obj\Debug\kolektorPobierz.exe
+c:\users\softkj\documents\visual studio 2015\Projects\kolektorPobierz\kolektorPobierz\obj\Debug\kolektorPobierz.pdb
