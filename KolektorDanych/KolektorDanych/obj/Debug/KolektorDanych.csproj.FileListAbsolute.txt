@@ -1,0 +1,14 @@
+c:\users\softkj\documents\visual studio 2015\Projects\KolektorDanych\KolektorDanych\bin\Debug\KolektorDanych.exe.config
+c:\users\softkj\documents\visual studio 2015\Projects\KolektorDanych\KolektorDanych\bin\Debug\KolektorDanych.exe
+c:\users\softkj\documents\visual studio 2015\Projects\KolektorDanych\KolektorDanych\bin\Debug\KolektorDanych.pdb
+c:\users\softkj\documents\visual studio 2015\Projects\KolektorDanych\KolektorDanych\obj\Debug\KolektorDanych.csprojResolveAssemblyReference.cache
+c:\users\softkj\documents\visual studio 2015\Projects\KolektorDanych\KolektorDanych\obj\Debug\MainWindow.g.cs
+c:\users\softkj\documents\visual studio 2015\Projects\KolektorDanych\KolektorDanych\obj\Debug\App.g.cs
+c:\users\softkj\documents\visual studio 2015\Projects\KolektorDanych\KolektorDanych\obj\Debug\KolektorDanych_MarkupCompile.cache
+c:\users\softkj\documents\visual studio 2015\Projects\KolektorDanych\KolektorDanych\obj\Debug\KolektorDanych_MarkupCompile.lref
+c:\users\softkj\documents\visual studio 2015\Projects\KolektorDanych\KolektorDanych\obj\Debug\MainWindow.baml
+c:\users\softkj\documents\visual studio 2015\Projects\KolektorDanych\KolektorDanych\obj\Debug\KolektorDanych.g.resources
+c:\users\softkj\documents\visual studio 2015\Projects\KolektorDanych\KolektorDanych\obj\Debug\KolektorDanych.Properties.Resources.resources
+c:\users\softkj\documents\visual studio 2015\Projects\KolektorDanych\KolektorDanych\obj\Debug\KolektorDanych.csproj.GenerateResource.Cache
+c:\users\softkj\documents\visual studio 2015\Projects\KolektorDanych\KolektorDanych\obj\Debug\KolektorDanych.exe
+c:\users\softkj\documents\visual studio 2015\Projects\KolektorDanych\KolektorDanych\obj\Debug\KolektorDanych.pdb
